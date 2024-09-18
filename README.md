@@ -46,7 +46,7 @@ O **Academy** é uma plataforma para gestão do coordenador Academy 2RP. A aplic
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/academy-frontend.git
+   git clone https://github.com/Felipe-Camargo12/Academy-frontend.git
    ```
 
 2. Instale as dependencias:
